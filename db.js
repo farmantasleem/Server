@@ -1,15 +1,11 @@
-const items = require("./data/items");
+const data = require("./data/data");
 const tags = require("./data/tags");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 const login = require("./data/login");
 
 module.exports = {
-  items,
-  tags,
-  brands,
-  itemTypes,
-  login
+  data
 }
 
 
