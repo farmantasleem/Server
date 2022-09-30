@@ -5,7 +5,7 @@ const itemTypes = require("./data/itemTypes");
 const login = require("./data/login");
 
 module.exports = {
-  data
+  data,login
 }
 
 
